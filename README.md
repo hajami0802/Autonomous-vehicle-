@@ -65,3 +65,6 @@ Algorithm 2 each step result-cont
 
 This technological innovation promises to enhance the performance and safety of autonomous vehicles under the prevalent challenge of rainy conditions, thereby advancing the broader field of autonomous vehicle technology.
 
+To explore algorithms we highly recommend to download CVIPtools software from the link below:
+https://cviptools.ece.siue.edu/downloads.php
+
